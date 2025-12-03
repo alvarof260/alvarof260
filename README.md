@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer, Web developer and Designer
 -----------------------------------------------
 
-* 🌍  I'm based in Tucuman, Argentina
+* 🌍  I'm from Argentina
 * ✉️  You can contact me at [alvarof260@gmail.com](mailto:alvarof260@gmail.com)
 * 🧠  I'm learning a typescript, next.js and astro
 * 🤝  I'm open to collaborating on interesting projects
